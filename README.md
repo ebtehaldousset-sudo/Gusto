@@ -19,7 +19,7 @@ A custom-fit intake or exhaust fan for a small room, using off-the-shelf IR and 
 
 - Initial release.
 
-## 🔹 Key Features
+## 🔹 Features
 
 - Uses 3×140 mm PC fans. PWM is available on the fan pins, but a separate PWM module is included to support potential upgrades to more powerful non-PC fans that lack tachometer or PWM control.
 
